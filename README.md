@@ -1,4 +1,8 @@
-Requirements
+# Playful Poet
+
+A peom mixer, that mixes and matches a hard coded poem in different arrangements. Run with ```$python3 poetry.py``` in terminal
+
+***Requirements***
 
 You can store your poem as a multi line string in Python, you do not need to read from a file.
 
